@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi_Kernel_OpenSource-sdm845",
-      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_sdm845",
-      "branch": "lineage-21",
+      "name": "NGK_android_kernel_xiaomi_sdm845",
+      "repo": "https://github.com/Akitlove/NGK_android_kernel_xiaomi_sdm845",
+      "branch": "t-caf-ksu",
       "device": "polaris",
-      "defconfig": "vendor/xiaomi/mi845_defconfig"
+      "defconfig": "nogravity-polaris_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
