@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "NGK_android_kernel_sm8150",
-      "repo": "https://github.com/2936410488/NGK_android_kernel_xiaomi_sm8150",
-      "branch": "t-caf",
+      "repo": "https://github.com/diphons/D8G_Kernel_SM8150",
+      "branch": "me",
       "device": "crux",
-      "defconfig": "sm8150-perf_defconfig"
+      "defconfig": "vendor/sm8150-perf_defconfig"
       "withKernelSU": true,
     },
     "toolchains": [
