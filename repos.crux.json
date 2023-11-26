@@ -6,12 +6,12 @@
       "branch": "t-caf",
       "device": "crux",
       "defconfig": "sm8150-perf_defconfig"
-       "withKernelSU": true,
+      "withKernelSU": true,
     },
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
-        "branch": "clang13",
+        "branch": "tools",
         "name": "clang13",
         "binPath": ["./bin"]
       }
