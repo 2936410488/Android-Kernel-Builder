@@ -7,7 +7,6 @@
       "device": "crux",
       "defconfig": "crux_user_defconfig"
     },
-    "withKernelSU": flase,
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
