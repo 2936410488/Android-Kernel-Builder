@@ -5,7 +5,8 @@
       "repo": "https://github.com/2936410488/NGK_android_kernel_xiaomi_sm8150",
       "branch": "t-caf",
       "device": "crux",
-      "defconfig": "crux_user_defconfig"
+      "defconfig": "sm8150-perf_defconfig"
+       "withKernelSU": true,
     },
     "toolchains": [
       {
