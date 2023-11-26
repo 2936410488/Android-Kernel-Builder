@@ -5,9 +5,9 @@
       "repo": "https://github.com/2936410488/NGK_android_kernel_xiaomi_sm8150",
       "branch": "t-caf",
       "device": "crux",
-      "defconfig": "nogravity_defconfig"
+      "defconfig": "crux_user_defconfig"
     },
-    "withKernelSU": true,
+    "withKernelSU": flase,
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
