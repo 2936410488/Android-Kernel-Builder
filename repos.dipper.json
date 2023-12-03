@@ -7,7 +7,6 @@
       "device": "crux",
       "defconfig": "raphael_defconfig"
     },
-    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
