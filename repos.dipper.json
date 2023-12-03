@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "crux",
-      "repo": "https://github.com/2936410488/android_kernel_xiaomi_raphael/tree/14/drivers/staging",
+      "repo": "https://github.com/2936410488/android_kernel_xiaomi_raphael",
       "branch": "14",
       "device": "crux",
       "defconfig": "raphael_defconfig"
