@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "crux",
-      "repo": "https://githubfast.com/Helium-Studio/android_kernel_xiaomi_raphael",
+      "repo": "https://github.com/Helium-Studio/android_kernel_xiaomi_raphael",
       "branch": "14",
       "device": "crux",
       "defconfig": "raphael_stock_defconfig"
