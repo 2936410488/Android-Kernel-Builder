@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "crux",
-      "repo": "https://github.com/Laulan56/android_kernel_xiaomi_sm8150",
+      "repo": "https://github.com/2936410488/kernel_xiaomi_sm8150",
       "branch": "crux",
       "device": "crux",
       "defconfig": "crux_defconfig"
