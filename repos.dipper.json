@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "crux",
       "repo": "https://github.com/2936410488/android_kernel_xiaomi_raphael",
-      "branch": "crux",
+      "branch": "14",
       "device": "crux",
       "defconfig": "raphael"
     },
