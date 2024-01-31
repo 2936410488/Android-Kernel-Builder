@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "crux",
-      "repo": "https://github.com/2936410488/android_kernel_xiaomi_sm8150",
-      "branch": "crux",
-      "device": "crux",
-      "defconfig": "crux_defconfig"
+      "name": "k20p",
+      "repo": "https://github.com/TheVoyager0777/Kernel_Xiaomi_SM8150_R",
+      "branch": "VK-VI",
+      "device": "raphael",
+      "defconfig": "raphael_defconfig"
     },
     "toolchains": [
       {
