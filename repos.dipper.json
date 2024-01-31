@@ -7,7 +7,7 @@
       "device": "raphael",
       "defconfig": "raphael_defconfig"
     },
-    "WithKernelsu": "true"
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
