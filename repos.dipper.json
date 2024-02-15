@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "k20p",
-      "repo": "https://github.com/TheVoyager0777/Kernel_Xiaomi_SM8150_R",
+      "repo": "https://github.com/2936410488/Kernel_Xiaomi_SM8150_R",
       "branch": "rapheus",
       "device": "raphael",
       "defconfig": "raphael_defconfig"
