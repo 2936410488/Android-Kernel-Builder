@@ -5,7 +5,7 @@
       "repo": "https://github.com/oppo-source/android_kernel_oppo_mtk_4.19",
       "branch": "oppo/mtk_t_13.0.0",
       "device": "PEYM00",
-      "defconfig": "k6893v1_64_k419_ab_defconfig"
+      "defconfig": "mediatek_debug_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
