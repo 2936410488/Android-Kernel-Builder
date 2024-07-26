@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "k20p",
-      "repo": "https://github.com/2936410488/Kernel_Xiaomi_SM8150_R",
-      "branch": "rapheus",
-      "device": "raphael",
-      "defconfig": "raphael_defconfig"
+      "name": "oppok9pro",
+      "repo": "https://github.com/oppo-source/android_kernel_oppo_mtk_4.19",
+      "branch": "oppo/mtk_t_13.0.0",
+      "device": "PEYM00",
+      "defconfig": "k6893v1_64_k419_ab_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
