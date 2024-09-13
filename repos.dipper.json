@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "NGK_android_kernel_xiaomi_sdm845",
-      "repo": "https://github.com/Akitlove/NGK_android_kernel_xiaomi_sdm845",
-      "branch": "t-caf-ksu",
-      "device": "dipper",
-      "defconfig": "nogravity-dipper_defconfig"
+      "name": "crd",
+      "repo": "https://github.com/2936410488/crd_845kernel",
+      "branch": "14.0",
+      "device": "polaris",
+      "defconfig": "polaris_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
@@ -38,7 +38,7 @@
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/Akitlove/AnyKernel3",
+      "repo": "https://github.com/2936410488/AnyKernel3",
       "branch": "master"
     }
   }
