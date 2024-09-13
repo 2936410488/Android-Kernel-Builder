@@ -217,7 +217,7 @@ jobs:
           zip -q -r "${{ env.anykernel }}.zip" *
 
       - name: "💾 Upload AnyKernel3 image => (${{ env.builddate }})"
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v2
         if: ${{ env.useAnykernel == 'true' }}
         with:
           name: "${{ env.KERNEL_DEVICE }}-${{ env.KERNEL_NAME }}_${{ env.builddate }}"
@@ -225,7 +225,7 @@ jobs:
 
       - name: 🧧 Create GitHub Release => (${{ env.builddate }})
         continue-on-error: true
-        uses: softprops/action-gh-release@v3
+        uses: softprops/action-gh-release@v2
         if: ${{ env.useAnykernel == 'true' && env.release == 'true' }}
         with:
           tag_name: v${{ env.builddate }}.${{ github.run_number }}
