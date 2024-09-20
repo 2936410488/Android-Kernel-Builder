@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "crd",
-      "repo": "https://github.com/2936410488/crd_845kernel",
+      "name": "NGK_CMI",
+      "repo": "https://github.com/Pierre2324/NGK_android_kernel_xiaomi_sm8250",
       "branch": "14.0",
-      "device": "polaris",
-      "defconfig": "polaris_defconfig"
+      "device": "cmi",
+      "defconfig": "cmi_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
