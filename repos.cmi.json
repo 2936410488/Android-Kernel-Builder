@@ -5,7 +5,7 @@
       "repo": "https://github.com/Pierre2324/NGK_android_kernel_xiaomi_sm8250",
       "branch": "t-caf",
       "device": "cmi",
-      "defconfig": "cmi_defconfig"
+      "defconfig": "alioth_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
