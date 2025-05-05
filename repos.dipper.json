@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "los",
-      "repo": "https://github.com/2936410488/los845",
-      "branch": "lineage-21",
+      "repo": "https://github.com/2936410488/kernel_xiaomi_sdm845",
+      "branch": "vic-susfs",
       "device": "polaris",
       "defconfig": "polaris_defconfig"
     },
