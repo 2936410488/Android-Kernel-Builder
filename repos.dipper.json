@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "los",
+      "name": "dipper",
       "repo": "https://github.com/2936410488/kernel_xiaomi_sdm845",
       "branch": "vic-susfs",
       "device": "polaris",
-      "defconfig": "polaris_defconfig"
+      "defconfig": "dipper_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
