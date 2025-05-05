@@ -146,8 +146,6 @@ jobs:
         run: |
           echo "PATH Variable: $PATH"
           make ${{ env.args }} ${{ env.DEFCONFIG_NAME }}
-          chmod a+x patch_kpm.sh
-          ./patch_kpm.sh
 
       - name: "🎶 Build kernel"
         working-directory: ${{ env.KERNEL_NAME }}
