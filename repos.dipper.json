@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "crd",
-      "repo": "https://github.com/2936410488/crd_845kernel",
-      "branch": "14.0",
-      "device": "polaris",
-      "defconfig": "polaris_defconfig"
+      "repo": "https://github.com/2936410488/msm-4.14",
+      "branch": "sukisu5-1",
+      "device": "surya",
+      "defconfig": "surya_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
